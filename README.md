@@ -7,8 +7,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 💡 Passionate about **software engineering, game development, and creative design**  
-- 🎮 I love building **video game-style applications & visualizations**  
+- 💡 Passionate about **software engineering, Web development, Applications and creative design**    
 - 🌍 Combining **technical skills** with **artistic design** to create unique experiences  
 - 🛠 Currently working on projects in **C++, Python, Flutter, and Web Dev**  
 
@@ -41,9 +40,10 @@
 
 - 🎮 **DSA World** – Learn Data Structures in a fun, video-game style  
 - 📱 **DevLance** – A Flutter freelancing platform connecting devs & clients  
+- 🤖 **Interactive Chatbot** – A website chatbot for engaging, real-time conversations  
 
 
-*(🔗 Add project URLs here)*  
+
 
 ---
 
