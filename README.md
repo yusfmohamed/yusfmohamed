@@ -41,8 +41,7 @@
 
 - 🎮 **DSA World** – Learn Data Structures in a fun, video-game style  
 - 📱 **DevLance** – A Flutter freelancing platform connecting devs & clients  
-- 🚘 **DriveSmart** – Smart CarPlay-style dashboard system  
-- 🎨 **Branding Projects** – Logos, posters & creative designs for freelance clients  
+
 
 *(🔗 Add project URLs here)*  
 
@@ -51,8 +50,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youssefmuhhammed&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefmuhhammed&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yusfmohamed&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusfmohamed&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
 
 ---
