@@ -7,7 +7,8 @@
 ---
 
 ## 👨‍💻 About Me
-- 💡 Passionate about **software engineering, Web development,Applications and creative design**   
+- 💡 Passionate about **software engineering, game development, and creative design**  
+- 🎮 I love building **video game-style applications & visualizations**  
 - 🌍 Combining **technical skills** with **artistic design** to create unique experiences  
 - 🛠 Currently working on projects in **C++, Python, Flutter, and Web Dev**  
 
@@ -39,7 +40,9 @@
 ## 📌 Featured Projects  
 
 - 🎮 **DSA World** – Learn Data Structures in a fun, video-game style  
-- 📱 **DevLance** – A Flutter freelancing platform connecting devs & clients    
+- 📱 **DevLance** – A Flutter freelancing platform connecting devs & clients  
+- 🚘 **DriveSmart** – Smart CarPlay-style dashboard system  
+- 🎨 **Branding Projects** – Logos, posters & creative designs for freelance clients  
 
 *(🔗 Add project URLs here)*  
 
@@ -56,12 +59,11 @@
 
 ## 🌐 Connect With Me  
 <p align="left">
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/yusfmohamed/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="[https://www.behance.net/](https://www.behance.net/yusf4u)" target="_blank"><img src="https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yusfmohamed/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.behance.net/yusf4u" target="_blank"><img src="https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
+  <a href="https://www.instagram.com/yusf4u/?hl=en" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
 
 ⭐ From [youssefmuhhammed](https://github.com/youssefmuhhammed)
-
--->
