@@ -1,36 +1,61 @@
-# 👋 Hi, I'm Youssef Atteya
+# Hi, I'm Youssef Atteya
 
-💻 **Software Engineering Student** | 🌐 Web & Mobile Development | 🎨 UI/UX & Graphic Design
+**Software Engineering Student | Software Analysis & System Design | UI/UX & Graphic Design**
 
-🎓 Software Engineering student at **Egyptian Chinese University**
-📍 Cairo, Egypt
-🚀 Building software through university projects, internships, and personal applications
-🎨 Combining software engineering with a strong background in visual design and UI/UX
+Software Engineering student at **Egyptian Chinese University**  
+Cairo, Egypt  
+Building and analyzing software through university projects, internships, and personal applications.
 
----
-
-## 👨‍💻 About Me
-
-I'm a **Software Engineering student** with hands-on experience across **web and mobile development**, backend development, databases, and software engineering projects.
-
-I'm interested in building functional, user-focused software while continuously expanding my technical knowledge.
-
-* 🌐 **Web Development** — Frontend & Backend
-* 📱 **Mobile Development** — Flutter, React Native & Expo
-* 🗄️ **Databases** — SQL & Microsoft SQL Server
-* ⚙️ **Software Engineering** — OOP, DSA, UML, requirements & testing
-* 🧠 **AI / Machine Learning** — Fundamentals
-* 🌐 **Networking** — Fundamentals
-* 🛡️ **SOC & Cybersecurity** — Fundamentals
-* 🎨 **UI/UX Design** — Figma
-* 🖌️ **Graphic Design** — Photoshop, Illustrator & other creative tools
-* 🤝 Experienced in **team collaboration and client/stakeholder communication**
+Interested in **Requirements Engineering, UML, Software Analysis, System Design, Databases, and AI Systems**.
 
 ---
 
-## 🛠️ Technical Skills
+## About Me
 
-### 💻 Programming Languages
+I'm a **Software Engineering student** with a strong foundation in software engineering, software analysis, system design, requirements, databases, and application development.
+
+I'm particularly interested in the **analysis and design side of software engineering** — understanding problems, gathering requirements, modeling systems, designing solutions, and translating ideas into functional digital products.
+
+I also have hands-on development experience, which helps me understand how software systems are implemented and communicate effectively with developers and technical teams.
+
+- **Software Analysis** — System Analysis, Requirements & Software Design
+- **UML & Modeling** — Use Case, Class, Activity & Sequence Diagrams
+- **Requirements Engineering** — Requirements Gathering & Documentation
+- **System Design** — Software Architecture & System Structure
+- **Databases** — SQL & Microsoft SQL Server
+- **Software Development** — Web & Mobile Development
+- **AI** — Artificial Intelligence & AI Models Fundamentals
+- **Data Science** — Fundamental Concepts
+- **Networking & IT** — Fundamentals
+- **UI/UX Design** — Figma & User-Centered Design
+- **Graphic Design** — Photoshop, Illustrator & Creative Tools
+- **Collaboration** — Teamwork & Client/Stakeholder Communication
+
+---
+
+## Software Engineering
+
+My main software engineering interests include:
+
+- Requirements Engineering
+- Requirements Gathering
+- Software & System Analysis
+- UML Modeling
+- Software Architecture
+- System Design
+- Database Design & SQL
+- Software Testing
+- Technical Documentation
+- Software Development Life Cycle (SDLC)
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Team Collaboration & Problem Solving
+
+---
+
+## Technical Skills
+
+### Programming Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -39,7 +64,7 @@ I'm interested in building functional, user-focused software while continuously 
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 </p>
 
-### 🌐 Web Development
+### Web Development
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -52,7 +77,7 @@ I'm interested in building functional, user-focused software while continuously 
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
 </p>
 
-### 📱 Mobile Development
+### Mobile Development
 
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -60,7 +85,7 @@ I'm interested in building functional, user-focused software while continuously 
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
 </p>
 
-### 🗄️ Databases & Tools
+### Databases & Development Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
@@ -73,149 +98,161 @@ I'm interested in building functional, user-focused software while continuously 
 
 ---
 
-## 🧠 Software Engineering
+## AI & Data
 
-* Object-Oriented Programming
-* Data Structures & Algorithms
-* UML Diagrams
-* Requirements Gathering
-* Software Testing
-* Problem Solving
-* Database Systems
-* Software Development Practices
+I'm interested in understanding how **AI can be integrated into software products and business systems**.
+
+- Artificial Intelligence Fundamentals
+- AI Models Concepts
+- Data Science Fundamentals
+- AI Integration Concepts
+- AI Applications in Software Systems
+
+My focus is on understanding **how AI systems work, where they can be applied, and how they fit into software products and business requirements**.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🎲 Bank El Haz — Multiplayer Property Game
+### Bank El Haz — Multiplayer Property Game
 
 A real-time multiplayer property-trading game inspired by classic board games and adapted with an Egyptian theme.
 
 **Tech:** React · TypeScript · Node.js · Fastify · Socket.io
 
-* 🎮 Multiplayer gameplay supporting up to 6 players
-* 🧠 Shared TypeScript game rules engine
-* ⚡ Server-authoritative game logic
-* 🔄 Real-time state synchronization
-* 🔌 Player reconnect handling
-* 🏠 Property ownership, rent, trading, and in-game interactions
-* 🏗️ Monorepo architecture separating the game engine, server, and frontend
-* 🎨 Interactive React/Vite game interface
+- Multiplayer gameplay supporting up to 6 players
+- Shared TypeScript game rules engine
+- Server-authoritative game logic
+- Real-time state synchronization
+- Player reconnect handling
+- Property ownership, rent, trading, and in-game interactions
+- Monorepo architecture separating the game engine, server, and frontend
+- Structured game requirements and system logic
+- Interactive React/Vite game interface
 
-🔗 **[View Repository](https://github.com/yusfmohamed/Bank-El-Haz-Game)**
+[View Repository](https://github.com/yusfmohamed/Bank-El-Haz-Game)
 
 ---
 
-### 🤖 Robot Tracking Application
+### Robot Tracking Application
 
 A mobile tracking application developed as part of a university engineering project and connected to a physical robot.
 
 **Tech:** Expo · React Native
 
-* 📱 Developed the mobile tracking interface
-* 🤖 Connected the application to a physical robot
-* 🤝 Collaborated with a multidisciplinary engineering team
-* ⚙️ Combined software and mechatronics concepts
-* 🏆 **Ranked 1st in the university showcase**
+- Developed the mobile tracking interface
+- Connected the application to a physical robot
+- Collaborated with a multidisciplinary engineering team
+- Combined software and mechatronics concepts
+- Worked with software requirements related to the physical system
+- **Ranked 1st in the university showcase**
 
 ---
 
-### 💼 DevLance
+### DevLance
 
 A mobile freelancing platform concept designed to connect developers with clients.
 
 **Tech:** Flutter · Dart · Figma
 
-* 📱 Developed the frontend using Flutter
-* 🎨 Designed UI/UX flows using Figma
-* 👨‍💻 Created developer and client-oriented interfaces
-* 🧭 Focused on intuitive navigation and usability
+- Defined application functionality and user flows
+- Designed UI/UX flows using Figma
+- Developed the frontend using Flutter
+- Created developer and client-oriented interfaces
+- Focused on usability, navigation, and user experience
+- Translated system requirements into application interfaces
 
-**Role:** Front-End Developer
-
----
-
-### 🤝 Collabify
-
-A professional collaboration platform designed to connect developers, designers, and other professionals based on their skills and interests.
-
-**Tech:** Flutter · Dart · Figma
-
-* 📱 Developed frontend screens using Flutter
-* 🎨 Translated Figma designs into functional interfaces
-* 🧩 Built reusable UI components
-* 📐 Focused on consistency and responsive layouts
-
-**Role:** Front-End Developer
+**Role:** Front-End Developer / UI/UX Designer
 
 ---
 
-### 🧩 Data Structure Visualizer
+### Data Structure Visualizer
 
 An interactive educational application designed to visualize fundamental data structures in a game-inspired environment.
 
 **Tech:** Python · Tkinter · Pygame
 
-* 📚 Stack visualization
-* 📚 Queue & Circular Queue
-* 🔗 Linked List
-* 🗼 Tower of Hanoi
-* 🎮 Game-inspired interface for interactive learning
+- Stack visualization
+- Queue & Circular Queue
+- Linked List
+- Tower of Hanoi
+- Designed interactive application flows
+- Applied software engineering and problem-solving concepts
 
 ---
 
-### 🤖 Interactive Chatbot Website
+## Experience
 
-A web-based chatbot interface designed to provide dynamic interactions through a browser-based experience.
-
-**Tech:** HTML · CSS · JavaScript
-
-* 🌐 Developed the complete frontend interface
-* 💬 Implemented dynamic user interactions
-* 🎨 Designed an interactive and user-focused experience
-
----
-
-## 💼 Experience
-
-### 🏢 Sweedy Cables — Computer Science Intern
+### El Sewedy Cables — Information Technology Training Course
 
 **Aug – Sep 2026 · Cairo, Egypt**
 
-Specialized training covering:
+Lecture-based specialized IT training covering:
 
-* 🖥️ Data center infrastructure
-* 💻 Hardware fundamentals
-* 🌐 IT infrastructure
-* 🛡️ SOC practices & cybersecurity fundamentals
-* 🧠 Artificial intelligence fundamentals
-* 🌐 Networking fundamentals
-
-### 🏦 Attijariwafa Bank — Back-End Web Developer Intern
-
-**Aug 2025 · Cairo, Egypt**
-
-* Developed and tested backend components using **Python**
-* Worked with **Microsoft SQL Server**
-* Queried and managed application data
-* Collaborated with a professional development team
-* Applied software development and database practices in a banking environment
+- Data center infrastructure
+- Computer hardware fundamentals
+- Servers and storage systems
+- IT infrastructure
+- Networking fundamentals
+- General IT infrastructure concepts
 
 ---
 
-## 🎨 Design Background
+### BAPETCO — Information Technology Intern
 
-Alongside software engineering, I have a professional background in **graphic design and visual media**.
+**Aug – Sep 2026 · Cairo, Egypt**
 
-My design experience includes:
+Training covering:
 
-* 🎨 Graphic Design
-* 🖥️ UI/UX Design
-* 📸 Photography & Image Editing
-* 🧊 3D / CGI
-* 🎬 Video & Visual Content
-* 📢 Promotional & Marketing Artwork
+- Data Science fundamentals
+- Artificial Intelligence fundamentals
+- AI models concepts and applications
+- Networking fundamentals
+- IT infrastructure
+- Network administration fundamentals
+
+---
+
+### Attijariwafa Bank — Back-End Web Developer Intern
+
+**Aug 2025 · Cairo, Egypt**
+
+- Developed and tested backend components using **Python**
+- Worked with **Microsoft SQL Server**
+- Queried and managed application data
+- Applied database and software development practices
+- Collaborated with a professional development team
+- Gained exposure to backend systems and database operations in a banking environment
+
+---
+
+### Egyptian Chinese University — Front-End Web Developer Intern
+
+**Jun – Jul 2025 · Cairo, Egypt**
+
+- Developed responsive user interfaces using **HTML, CSS, and JavaScript**
+- Worked with website structure and frontend functionality
+- Applied usability and user experience principles
+- Gained practical experience with frontend development workflows
+
+---
+
+## Design Background
+
+Alongside software engineering, I have **6+ years of professional graphic design experience**, starting in 2020.
+
+My design background includes work in:
+
+- Graphic Design
+- UI/UX Design
+- Photography & Image Editing
+- 3D / CGI
+- Video & Visual Content
+- Promotional & Marketing Artwork
+- Seniors Kits & Graduation Designs
+- Artist & Event Visuals
+
+I've worked on visual projects for artists, agencies, brands, and events, combining creative direction with technical and user-focused thinking.
 
 ### Creative Tools
 
@@ -230,16 +267,36 @@ My design experience includes:
 
 ---
 
-## 📊 GitHub Stats
+## Career Interests
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yusfmohamed&show_icons=true&theme=tokyonight" alt="Youssef's GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusfmohamed&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</p>
+I'm currently exploring opportunities in areas such as:
+
+- **Software / Systems Analysis**
+- **Requirements Engineering**
+- **Business Analysis**
+- **Business Systems Analysis**
+- **Software & System Design**
+- **Database & Data Analysis**
+- **AI Business / Systems Analysis**
+- **Digital Transformation**
+- **Technology & Digital Products**
+
+My goal is to combine my **software engineering knowledge, analytical thinking, database skills, AI fundamentals, and design background** to help transform business and user requirements into well-designed software solutions.
 
 ---
 
-## 🌐 Connect With Me
+## Currently Learning
+
+- Microsoft SQL Server & Database Practice
+- Data & Database Analysis
+- Software Architecture & System Design
+- Requirements Engineering & Documentation
+- AI Systems & AI Applications
+- Software Analysis & Modeling
+
+---
+
+## Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/yusfmohamed/" target="_blank">
@@ -258,15 +315,5 @@ My design experience includes:
 
 ---
 
-## 📚 Currently Learning
-
-🌐 **Backend Development & APIs**
-🗄️ **Databases & Data Management**
-🏗️ **Software Architecture & Engineering Practices**
-⚡ **Real-Time Applications**
-📱 **Web & Mobile Application Development**
-🧠 **AI & Machine Learning Fundamentals**
-
----
-
-⭐ **Thanks for visiting my profile!**
+**Thanks for visiting my profile.**
+```
