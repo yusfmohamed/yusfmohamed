@@ -299,7 +299,7 @@ My goal is to combine my **software engineering knowledge, analytical thinking, 
 ## Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yusfmohamed/" target="_blank">
+  <a href="https://www.linkedin.com/in/yusfatteya/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/yusfmohamed" target="_blank">
